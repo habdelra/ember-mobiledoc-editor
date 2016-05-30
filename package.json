@@ -50,7 +50,7 @@
     "ember-cli-babel": "^5.1.3",
     "ember-cli-htmlbars": "^1.0.0",
     "ember-wormhole": "^0.3.4",
-    "mobiledoc-kit": "^0.9.6"
+    "mobiledoc-kit": "habdelra/mobiledoc-kit#0db96d066cc3cdb82ec9daed88ad6e43dc879f6f"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
